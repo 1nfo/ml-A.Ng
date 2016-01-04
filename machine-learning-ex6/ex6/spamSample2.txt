@@ -1,0 +1,35 @@
+Hello, students and faculty potentially interested in BCB 590 / CS 525 ST: Unsupervised Learning,
+
+Due to a conflict with another course, we have changed the time of this class (described below and in attachment).  It is now:
+
+BCB 590 / CS 525 SPECIAL TOPICS:  UNSUPERVISED LEARNING
+New time and location: MW 2-3:20 PM  KH 115
+
+I hope this allows more students to take the class.  If you were already registered at the old time, you are still registered at the new time.
+
+Best wishes and happy holidays, and apologies for any inconvenience,
+Liz Ryder
+
+________________________________________
+From: Ryder, Elizabeth F.
+Sent: Thursday, December 17, 2015 2:09 PM
+To: bcb-grads@cs.wpi.edu; grads@cs.wpi.edu; ma-grad@wpi.edu
+Cc: Korkin, Dmitry
+Subject: Special Topics BCB/CS grad course for this spring (2016): Unsupervised Learning
+
+Hello, BCB, CS, DS, and MA graduate students --
+
+I would like to draw your attention to a Special Topics graduate course BCB is offering jointly with CS this spring.  The course description and registration information are below, and the syllabus is attached.  If you have any questions about the class, please contact the instructor, Prof. Dmitry Korkin (copied above).
+
+BCB 590 / CS 525 SPECIAL TOPICS:  UNSUPERVISED LEARNING
+New time and location: MW 2-3:20 PM  KH 115
+??????????????????????
+Modern science is data driven. The data often come in large amounts and require an intelligent analysis and summarization. Grouping of similar data points is often one of the first steps that needs to be done. This course introduces both basic and state-of-the-art methods for unsupervised feature-based learning and clustering. During the course students will study theory behind clustering algorithms, learn how to implement these algorithms, and will work on a research project where the algorithms will be applied to solve the real-world problems. As a novel feature of the course, state-of-the-art clustering methods developed specifically for the massive data analysis and Big Data will be introduced.  Prerequisite: good programming skills, an undergraduate or graduate course in algorithms is preferable.
+??????????????????????
+
+Liz Ryder, Ph.D.
+Associate Professor, Department of Biology & Biotechnology
+Director, Program in Bioinformatics and Computational Biology
+Worcester Polytechnic Institute
+100 Institute Rd.
+Worcester, MA  01609
